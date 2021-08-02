@@ -1,0 +1,27 @@
+#div1{
+    width: 100%;
+    text-align: center;
+}
+#div2{
+    width: 100%;
+    text-align: center;
+}
+#player1_name_input{
+    width: 50%;
+    text-align: center;
+    margin-left: 400px;
+    position: relative;
+}
+#player2-name_input{
+    width: 50%;
+    text-align: center;
+    margin-left: 400px;
+    position: relative;
+}
+body{
+    background-image: url("WhatsApp\ Image\ 2021-08-02\ at\ 12.44.11\ PM.jpeg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin-top: 200px;
+
+}
